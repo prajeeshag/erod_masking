@@ -1,0 +1,7 @@
+xarray 
+rasterio 
+geopandas 
+numpy 
+shapely
+netcdf4
+typer
